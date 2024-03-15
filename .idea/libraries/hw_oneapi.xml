@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hw_oneapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hw6_with_intel_oneapi/hw_oneapi.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

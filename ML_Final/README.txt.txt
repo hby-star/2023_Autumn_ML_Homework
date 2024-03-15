@@ -1,0 +1,3 @@
+paper文件夹中存放论文。分为doc和pdf格式。
+
+src文件夹中存放源代码。其中data存放预处理的代码和经过预处理的数据。其他py文件前缀带regression为回归算法，compare.py为最后对不同算法进行分析和比较的代码。result.txt为不同算法输出的结果。
